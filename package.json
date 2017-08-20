@@ -1,0 +1,28 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "A CRUD application using Node JS, Express JS and Mongo DB just for the server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunnyPatel29/CRUD-application.git"
+  },
+  "author": "Sunny Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunnyPatel29/CRUD-application/issues"
+  },
+  "homepage": "https://github.com/SunnyPatel29/CRUD-application#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
